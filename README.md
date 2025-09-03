@@ -21,11 +21,7 @@
 
 **⭐ Stars:** 74,755 | **🍴 Forks:** 3,606 | **📅 Updated:** 2025-09-03
 
-1. **Repository Name:** ruanyf/weekly  
-2. **Brief Introduction:** A weekly newsletter for technology enthusiasts, published every Friday.  
-3. **Innovations:** Features curated articles, insights, and resources on technology trends, fostering community engagement and knowledge sharing among tech lovers.  
-4. **Basic Usage:** Subscribe to the newsletter for weekly updates.  
-5. **Summary:** This repository serves as a valuable resource for staying informed about the latest in technology.
+
 
 ---
 
@@ -33,11 +29,7 @@
 
 **⭐ Stars:** 20,045 | **🍴 Forks:** 1,432 | **📅 Updated:** 2025-09-03
 
-1. **Repository Name:** zijie0/HumanSystemOptimization  
-2. **Brief Introduction:** This repository offers an incomplete guide to optimizing human bodily systems for health and longevity, aiming to promote well-being up to the age of 150.  
-3. **Innovations:** The repository features unique insights into health optimization techniques, focusing on holistic approaches and practical strategies for enhancing bodily functions and longevity.  
-4. **Basic Usage:** None provided.  
-5. **Summary:** The repository serves as a resource for individuals seeking to enhance their health and extend their lifespan through systematic optimization of bodily systems.
+429
 
 ---
 
